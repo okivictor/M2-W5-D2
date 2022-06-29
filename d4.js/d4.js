@@ -14,9 +14,9 @@ ASSIGNMENT RULES
 /* WRITE YOUR ANSWER HERE */
 JS data types includes the following;
 "Null": can be used to set a js property as empty.
-"Undefined" describes a data that has not been assigned to a variable and vise versa
+"Undefined" describes a data that has not been assigned to a variable and vise versa.
 "Number" is used to store floating point numbers or integer in a variable.
-"Boolean" describes when a statement or code is either "True" or "False"
+"Boolean" describes when a statement or code is either "True" or "False".
 "String" is capable of storing text in JS. it is usually enclosed by a quote ("").
 
 
